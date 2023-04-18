@@ -1,2 +1,4 @@
 #Maheswara reddey is an electronics student.
-printf("Hello")
+print("Hello")
+a=2+3
+print(a)
